@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { rank: 25, title: "Goodbye To A World", videoId: "W2TE0DjdNqI", status: "(予測2029年11月)", pubDate: "20140812", type: "pending" },
         { rank: 26, title: "ロストワンの号哭", videoId: "8oBV3jPTW4s", status: "(予測2028年9月)", pubDate: "20140819", type: "pending" },
         { rank: 27, title: "Anamanaguchi", videoId: "NocXEwsJGOQ", status: "(予測2029年4月)", pubDate: "20160528", type: "pending" },
-        { rank: 28, title: "フォニイ", videoId: "9QLT1Aw_45s", status: "(来年10月後期)", pubDate: "20210605", type: "pending" },
+        { rank: 28, title: "フォニイ", videoId: "9QLT1Aw_45s", status: "(来年10月後半)", pubDate: "20210605", type: "pending" },
         { rank: 29, title: "アンノウン・マザーグース", videoId: "P_CSdxSGfaA", status: "(予測2029年4月)", pubDate: "20170822", type: "pending" },
         { rank: 30, title: "ベノム", videoId: "oRJBwaZ59fQ", status: "(予測2029年9月)", pubDate: "20180802", type: "pending" },
         { rank: 31, title: "だれかの心臓になれたなら", videoId: "hZFBTnzKa54", status: "(予測2029年7月)", pubDate: "20180812", type: "pending" },
