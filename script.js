@@ -118,15 +118,15 @@ document.addEventListener('DOMContentLoaded', () => {
         { rank: 23, title: "マトリョシカ", videoId: "HOz-9FzIDf0", status: "(予測2029年2月)", pubDate: "20131002", type: "pending" },
         { rank: 24, title: "千本桜", videoId: "shs0rAiwsGQ", status: "(予測2029年2月)", pubDate: "20141202", type: "pending" },
         { rank: "伝説", title: "Nyanyanyanyanyanyanya!もしくはNyan Cat (Combined)", videoId: "QH2-TGUlwu4", videoIds: ["QH2-TGUlwu4", "2yJgwwDcgV8", "LfKCLdPTqtM", "RZzvY-xqqFQ", "eI4pbCQLClA", "yarCP79fUts", "8aNBXUoZWF4"], status: "複数動画合計 (Youtubeのみ)", pubDate: "20100725", type: "legend" },
-        { rank: 25, title: "Goodbye To A World", videoId: "W2TE0DjdNqI", status: "(20140812)", pubDate: "20140812", type: "new_entry" },
-        { rank: 26, title: "アスノヨゾラ哨戒班", videoId: "8oBV3jPTW4s", status: "(20140819)", pubDate: "20140819", type: "new_entry" },
-        { rank: 27, title: "シャルル", videoId: "NocXEwsJGOQ", status: "(20161012)", pubDate: "20161012", type: "new_entry" },
-        { rank: 28, title: "フォニイ", videoId: "9QLT1Aw_45s", status: "(20210605)", pubDate: "20210605", type: "new_entry" },
-        { rank: 29, title: "トンデモワンダーズ", videoId: "P_CSdxSGfaA", status: "(20210619)", pubDate: "20210619", type: "new_entry" },
-        { rank: 30, title: "ベノム", videoId: "oRJBwaZ59fQ", status: "(20180802)", pubDate: "20180802", type: "new_entry" },
-        { rank: 31, title: "命に嫌われている。", videoId: "hZFBTnzKa54", status: "(20170806)", pubDate: "20170806", type: "new_entry" },
-        { rank: 32, title: "アンノウン・マザーグース", videoId: "qnX2CdOBcDI", status: "(20170822)", pubDate: "20170822", type: "new_entry" },
-        { rank: 33, title: "劣等上等", videoId: "oEkGC2HV7rc", status: "(20180713)", pubDate: "20180713", type: "new_entry" }
+        { rank: 25, title: "Goodbye To A World", videoId: "W2TE0DjdNqI", status: "(予測2029年11月)", pubDate: "20140812", type: "pending" },
+        { rank: 26, title: "ロストワンの号哭", videoId: "8oBV3jPTW4s", status: "(予測2028年9月)", pubDate: "20140819", type: "pending" },
+        { rank: 27, title: "Anamanaguchi", videoId: "NocXEwsJGOQ", status: "(予測2029年4月)", pubDate: "20160528", type: "pending" },
+        { rank: 28, title: "フォニイ", videoId: "9QLT1Aw_45s", status: "(来年10月後期)", pubDate: "20210605", type: "pending" },
+        { rank: 29, title: "アンノウン・マザーグース", videoId: "P_CSdxSGfaA", status: "(予測2029年4月)", pubDate: "20170822", type: "pending" },
+        { rank: 30, title: "ベノム", videoId: "oRJBwaZ59fQ", status: "(予測2029年9月)", pubDate: "20180802", type: "pending" },
+        { rank: 31, title: "だれかの心臓になれたなら", videoId: "hZFBTnzKa54", status: "(予測2029年7月)", pubDate: "20180812", type: "pending" },
+        { rank: 32, title: "ドーナツホール", videoId: "qnX2CdOBcDI", status: "(予測2032年)", pubDate: "20131028", type: "pending" },
+        { rank: 33, title: "劣等上等", videoId: "oEkGC2HV7rc", status: "(予測2029年10月)", pubDate: "20180713", type: "pending" }
     ];
 
     const timelineContainer = document.getElementById('timeline-container');
